@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+
+}
+#gender{
+    color: lightgray;
+}
+.form-control{
+    margin-top: 1%;
+    margin-left: 10%;
+    width: 60%;
+    
+    color:lightgray ;
+    border: 1px solid lightsteelblue;
+}
+#select{
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid lightsteelblue;
+    border-radius: .25rem;
+    text-align: right;
+   
+}
+#button{
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 2%;
+    background-color:white ;
+    border: 1px solid lightsteelblue;
+    color: #A5C1E5;
+    border-radius: .25rem;
+    text-align: right;
+}
+.add{
+    
+    margin: 5%;
+    margin-left: 25%;
+    width: 50%;
+   border:1px solid #A5C1E5;
+}
+#p{
+    font-family: inherit;
+}

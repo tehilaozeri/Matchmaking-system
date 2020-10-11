@@ -1,0 +1,58 @@
+#dropdown-basic-button{
+
+    background-color:white ;
+    border: 1px solid lightsteelblue;
+    color: black;
+   
+}
+#ListButton{
+    background-color:white ;
+    border: 1px solid lightsteelblue;
+    color: #A5C1E5;
+}
+#choose-sort{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 70%;
+    width: 15%;
+}
+#show-list{
+    text-align: left;
+    width: 50%;
+    margin-left: 20%;
+   
+}
+li{
+        color:black;
+        display: inline-block;
+        text-align: center;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        
+    }
+#card{
+    border: 1px solid lightsteelblue;
+    margin: 1%;
+    width: 100%;
+    text-align: center;
+}
+#details{
+    margin-left: 20%;
+}
+p,label{
+    display: inline-block;
+    margin: 1%;
+    margin-right: 10%;
+    margin-left: 3%;
+    font-family: Arial;
+    color:#A5C1E5
+}
+#id{
+    text-align: center;
+}
+#name{
+    color:#A5C1E5;
+    margin: 1%;
+}
+#space{
+    margin-left: 1%;;
+}
